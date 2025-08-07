@@ -1,0 +1,94 @@
+---
+title: "Bioinformatics @ Hood"
+author:
+  name: "Dr. Randy Johnson"
+  affiliation: "Bioinformatics Program Director"
+  email: "johnson@hood.edu"
+title-slide-attributes:
+  data-background-image: img/BIFXlogo0.png
+  data-background-size: contain
+  data-background-opacity: "0.2"
+format:
+  revealjs:
+    css: slides.css # change size and position here
+    logo: "img/BIFXqr_w_logo.png"
+    footer: "Bioinformatics Masters Program | https://hood.edu/BIFX"
+---
+
+
+## Why bioinformatics now?
+
+* Big Data meets AI
+
+<div style="text-align: center;">
+[![](img/insights_from_metagenomics.png){width=40%}](https://hood.edu/BIFX)
+</div>
+
+<!--
+* We're generating unprecedented volumes of biological data from technologies like next-gen sequencing and proteomics
+
+* **Traditional biological methods can't keep pace**
+
+* From Human Genome Project (completed 2003) to AI-in-the-loop analysis of multiomics data (2025)
+-->
+
+## What is bioinformatics? More than just the sum of the parts!
+
+* Bioinformatics is a truly **interdisciplinary field**
+
+<div style="text-align: center;">
+![](img/interdisciplinary.png){width=38%}
+</div>
+
+## Impactful Applications: Driving Real-World Change
+
+<!--
+* Bioinformaticians are right in the middle of groundbreaking discoveries in ...
+* Discoveries that directly impact human health
+-->
+
+* Key Application Areas:
+    * Personalized Medicine
+    * Drug Discovery & Development
+    * Epidemiology & Public Health
+    * Agriculture & Environmental Science
+
+
+## Robust Career Prospects & Competitive Salaries
+
+<!--
+* AI is proving to be a major disruptor in many fields
+* The demand for skilled bioinformaticians is robust across diverse sectors
+* What employers will want is someone who
+  * understands the science behind the data
+  * how to leverage AI and other computational tools to get work done
+  * and what the results mean in the context of the science
+* This is what we focus on teaching at Hood
+-->
+
+* Leading Industries:
+  * Pharmaceuticals & Biotechnology
+  * Government & Academia
+  * Healthcare
+  * Agricultural & Environmental Science
+  * Software Development
+
+
+## Our Program
+
+<div style="text-align: center;">
+[![](img/hood_site.png){width=60%}](https://hood.edu/BIFX)
+</div>
+
+
+## Questions?
+
+<div style="text-align: center;">
+**Dr. Randy Johnson**
+
+Bioinformatics Program Director
+
+johnson@hood.edu
+
+We look forward to connecting with you!
+</div>
