@@ -1,7 +1,7 @@
 ---
 title: "Bioinformatics @ Hood"
 author:
-  name: "Dr. Randy Johnson"
+  name: "Dr. Randy Johnson, PhD, PMP"
   affiliation: "Bioinformatics Program Director"
   email: "johnson@hood.edu"
 title-slide-attributes:
@@ -18,10 +18,8 @@ format:
 
 ## Why bioinformatics now?
 
-* Big Data meets AI
-
 <div style="text-align: center;">
-[![](img/insights_from_metagenomics.png){width=40%}](https://hood.edu/BIFX)
+[![Image courtesy of Gemini](img/big_data_ai.png)](https://hood.edu/BIFX)
 </div>
 
 <!--
@@ -32,29 +30,15 @@ format:
 * From Human Genome Project (completed 2003) to AI-in-the-loop analysis of multiomics data (2025)
 -->
 
-## What is bioinformatics? More than just the sum of the parts!
-
-* Bioinformatics is a truly **interdisciplinary field**
+## Interdisciplinary Approach
 
 <div style="text-align: center;">
-![](img/interdisciplinary.png){width=38%}
+![](img/BIFXprogram-1.png){width=50%}
 </div>
 
-## Impactful Applications: Driving Real-World Change
-
-<!--
-* Bioinformaticians are right in the middle of groundbreaking discoveries in ...
-* Discoveries that directly impact human health
--->
-
-* Key Application Areas:
-    * Personalized Medicine
-    * Drug Discovery & Development
-    * Epidemiology & Public Health
-    * Agriculture & Environmental Science
 
 
-## Robust Career Prospects & Competitive Salaries
+## Where to Graduates Find Jobs?
 
 <!--
 * AI is proving to be a major disruptor in many fields
@@ -67,14 +51,37 @@ format:
 -->
 
 * Leading Industries:
-  * Pharmaceuticals & Biotechnology
   * Government & Academia
+  * Pharmaceuticals & Biotechnology
   * Healthcare
-  * Agricultural & Environmental Science
-  * Software Development
+  * Software Development & Infrastructure Support
+  * (Agricultural & Environmental Science)
 
 
 ## Our Program
+
+<!-- generation:
+-   Export PowerPoint to Adobe pdf
+-   magick -density 400 BIFXprogram.pdf -quality 100 BIFXprogram.png
+-   Crop BIFXprogram.png
+-->
+<div style="text-align: center;">
+[![](img/BIFXprogram.png){width=55%}](https://hood.edu/BIFX)
+</div>
+
+## Capstone Examples
+
+![[Todd Young, 2025](https://github.com/BIFX579/capstone-tyoung1990) - Infographic courtesy of Gemini](img/HPVtyping.png)
+
+## Capstone Examples
+
+![[Jamilet Cordon, 2026](https://github.com/BIFX579/capstone-JaminGhost) - Infographic courtesy of Gemini](img/QCdrift.png)
+
+## Capstone Examples
+
+![[Jason Cimielewski, 2026](https://github.com/BIFX579/capstone-JasonCiemielewski) - Infographic courtesy of Gemini](img/somapower.png)
+
+## Website
 
 <div style="text-align: center;">
 [![](img/hood_site.png){width=60%}](https://hood.edu/BIFX)
@@ -89,6 +96,4 @@ format:
 Bioinformatics Program Director
 
 johnson@hood.edu
-
-We look forward to connecting with you!
 </div>
